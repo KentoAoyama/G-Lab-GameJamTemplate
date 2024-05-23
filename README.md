@@ -1,1 +1,1 @@
-# G-Lab-GameJamTemplate
+# G-Lab　第1回新入生向けゲームジャムテンプレート
